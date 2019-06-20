@@ -1,2 +1,2 @@
-# Practice
+Author: Kyle Tarrao
 Practice Algorithms 
